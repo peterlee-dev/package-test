@@ -1,3 +1,3 @@
 export const test = () => {
-    console.log('thisis package-test');
+    console.log('thisis package-test!!');
 };
